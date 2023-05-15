@@ -1,0 +1,35 @@
+form {
+    background-image: url(images/background\ pic.jpeg);
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    color: white;
+    border-radius: 2rem;
+    margin-top: 120px;
+    margin-left: 500px;
+    padding: 10px;
+}
+
+input {
+    width: 80%;
+    padding: 8px;
+}
+
+select {
+    width: 85%;
+    padding: 8px;
+}
+
+textarea {
+    width: 85%;
+}
+
+button {
+    width: 85%;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    color: green;
+}
